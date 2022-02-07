@@ -5,14 +5,14 @@ Hatch is a brute force tool that is used to brute force most websites
 ## Installation Instructions
 ```
 git clone https://github.com/MetaChar/Hatch
-python2 main.py
+python3 main.py
 ```
 
 ## Requirements
 ```
-pip2 install selenium
-pip2 install pyvirtualdisplay
-pip2 install requests
+pip3 install selenium
+pip3 install pyvirtualdisplay
+pip3 install requests
 sudo apt-get install xvfb
 ```
 chrome driver and chrome are also required!
@@ -27,6 +27,4 @@ copy it to bin!
 5). When Asked put in the username to brute force<br>
 6). Watch it go!
 
-## How to use (Video)
-[![IMAGE ALT TEXT](https://i.ytimg.com/vi/Hd_kQVnajxk/1.jpg)](https://youtu.be/Hd_kQVnajxk "Video Title")
 
