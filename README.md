@@ -4,7 +4,7 @@ Hatch is a brute force tool that is used to brute force most websites
 
 ## Installation Instructions
 ```
-git clone https://github.com/MetaChar/Hatch
+git clone https://github.com/jayzedgee/Hatch
 python3 main.py
 ```
 
